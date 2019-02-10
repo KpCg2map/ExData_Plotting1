@@ -1,3 +1,12 @@
+# Peer-graded Assignment: Peer-graded Assignment: Course Project 1 - 
+# Coursera Exploratory Data Analysis Course by Johns Hopkins University
+## February 10, 2019
+
+Created the four .png files required for the assignment using the R-scripts included in this repository
+
+
+
+
 ## Introduction
 
 This assignment uses data from
